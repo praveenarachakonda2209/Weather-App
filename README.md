@@ -28,7 +28,7 @@ An API key from OpenWeatherMap.
 
 # Installation
 1. Clone the repository:
-'''git clone https://github.com/praveenarachakonda2209/Weather-App.git'''
+<pre>'''javascript git clone https://github.com/praveenarachakonda2209/Weather-App.git'''</pre>
 2. Navigate to the project directory:
 cd weather
 3. Open script.js and replace the API key with your own:
