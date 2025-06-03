@@ -1,22 +1,20 @@
 ## Weather-App
 Built a responsive weather web application using HTML, CSS, and JavaScript. Integrated OpenWeatherMap API to fetch real-time weather data based on user input. Implemented dynamic UI updates, error handling, loading states, and weather icons for improved user experience.
 # Features
-8#Real-Time Weather Data: Get current weather details by entering any city name.
+**Real-Time Weather Data**: Get current weather details by entering any city name.
 
-Responsive UI: Works well on desktop and mobile screens.
+**Responsive UI**: Works well on desktop and mobile screens.
 
-Loading and Error Handling: Displays loading states and handles invalid city entries gracefully.
+**Loading and Error Handling**: Displays loading states and handles invalid city entries gracefully.
 
-Weather Icons and Styling: Visual icons and backgrounds enhance the user experience.
+**Weather Icons and Styling**: Visual icons and backgrounds enhance the user experience.
 
 # Technologies Used
-Frontend: HTML, CSS, JavaScript
+**Frontend**: HTML, CSS, JavaScript
 
-API: OpenWeatherMap
+**API**: OpenWeatherMap
 
-Editor: Visual Studio Code
-
-Assets: Custom background image (weather.jpeg)
+**Editor**: Visual Studio Code
 
 # Getting Started
 Follow these instructions to run the project locally:
@@ -36,9 +34,9 @@ An API key from OpenWeatherMap.
 4. Open index.html in your browser to launch the app.
 
 ## API References
-#Current Weather: https://openweathermap.org/current
-#Geocoding : https://openweathermap.org/api/geocoding-api
-#5-Day Forecast (if added): https://openweathermap.org/forecast5
+**Current Weather**: https://openweathermap.org/current
+**Geocoding** : https://openweathermap.org/api/geocoding-api
+**5-Day Forecast** (if added): https://openweathermap.org/forecast5
 
 #Contact
 For any questions or feedback:
