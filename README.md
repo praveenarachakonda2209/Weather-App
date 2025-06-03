@@ -37,11 +37,11 @@ An API key from OpenWeatherMap.
 4. Open index.html in your browser to launch the app.
 
 ## API References
-**Current Weather**: https://openweathermap.org/current
-**Geocoding** : https://openweathermap.org/api/geocoding-api
-**5-Day Forecast** (if added): https://openweathermap.org/forecast5
+**Current Weather**: https://openweathermap.org/current<br>
+**Geocoding** : https://openweathermap.org/api/geocoding-api<br>
+**5-Day Forecast** (if added): https://openweathermap.org/forecast5<br>
 
 ## Contact
 For any queries or feedback:
 
-GitHub: @praveenarachakonda2209
+GitHub: [@praveenarachakonda2209](https://github.com/praveenarachakonda2209)
